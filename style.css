@@ -1,0 +1,27 @@
+body    {
+ background-color: #777777;
+font-family: "Arial", "Helvetica", "sans-serif";
+width: 960px;
+font-size: 18px;
+text-align: center
+    }
+
+h3  {
+    background-color: #ebebeb;
+    padding-top: 20px;
+    padding-bottom: 20px;
+     }
+    
+#Aside {
+        float:  right; 
+        width: 495px;
+        }
+
+#Section    {
+    float: left;
+    width: 495px;
+       }
+
+#footer {
+        clear: both;
+        }
